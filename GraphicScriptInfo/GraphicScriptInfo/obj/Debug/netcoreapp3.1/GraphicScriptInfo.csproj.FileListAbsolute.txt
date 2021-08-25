@@ -1,0 +1,16 @@
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.exe
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.deps.json
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.runtimeconfig.json
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.runtimeconfig.dev.json
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.dll
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\bin\Debug\netcoreapp3.1\GraphicScriptInfo.pdb
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.csprojAssemblyReference.cache
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.Form1.resources
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.csproj.GenerateResource.cache
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.AssemblyInfoInputs.cache
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.AssemblyInfo.cs
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.csproj.CoreCompileInputs.cache
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.dll
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.pdb
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.genruntimeconfig.cache
+C:\Users\student_local\source\repos\GraphicScriptInfo\GraphicScriptInfo\obj\Debug\netcoreapp3.1\GraphicScriptInfo.Properties.Resources.resources
